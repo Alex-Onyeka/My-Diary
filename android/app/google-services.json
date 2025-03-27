@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905517086285",
+    "project_id": "authtutorial-3abff",
+    "storage_bucket": "authtutorial-3abff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905517086285:android:72856b9509a9df7f634e04",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQ13T78LOU9EyWq9KI4MMFazfKQDw9TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
