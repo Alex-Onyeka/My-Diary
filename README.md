@@ -1,16 +1,25 @@
-# auth
+## My Diary App
 
-A new Flutter project.
+A **Flutter-based** diary application that allows users to create, edit, and delete personal diary entries. The app provides **secure authentication with Firebase**, **local storage using SQLite**, and **state management with Provider**.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication** (Sign up, Login, Logout, Delete Account) via Firebase Auth
+- **Create, Update, and Delete Diary Entries**
+- **Local Storage with SQLite** for offline access
+- **Provider for State Management**
+- **Beautiful UI with Flutter**
+- **Secure User Data**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠️ Technologies Used
+
+- **Flutter** (Dart)
+- **Firebase Authentication** (For user login/signup)
+- **SQLite** (For offline data storage)
+- **Provider** (For state management)
+
+
+### 🔗 Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
